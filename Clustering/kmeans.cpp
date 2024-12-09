@@ -2,5 +2,5 @@
 #include <stdio.h>
 
 int main(){
-    std::cout << "prout" << std::endl;
+    std::cout << "kmeans" << std::endl;
 }
